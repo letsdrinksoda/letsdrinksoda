@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @letsdrinksoda
 - 👀 I’m interested in learning to code and computer science. 
-- 🌱 I’m currently taking the cs5 harvard course and refreshing on calculus. Hoping to start cs 50 by summer.
+- 🌱 I’m currently taking the cs50 harvard course and refreshing on calculus. Hoping to start cs 50 by summer.
 - 💞️ I’m looking to collaborate on anything and everything.
 - 📫 How to reach me ricki.correa24@gmail.com
