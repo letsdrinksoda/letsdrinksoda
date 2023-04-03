@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @letsdrinksoda
 - 👀 I’m interested in learning to code and computer science. 
-- 🌱 I’m currently taking the cs50 harvard course and refreshing on calculus. Hoping to start WGU CS course by summer.
-- 💞️ I’m looking to collaborate on anything and everything.
-- 📫 How to reach me ricki.correa24@gmail.com
+- 🌱 WGU CS student
